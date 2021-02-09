@@ -1,0 +1,113 @@
+@charset "utf-8";
+
+p
+{
+	color: #fff;
+	padding: 20px;
+	font-family: Helvetica, Arial, sans-serif;
+	font-size: 16px;
+}
+
+
+
+.hidden
+{
+	display: none;
+}
+
+
+
+#container
+{
+	width: 1020px;
+	padding-left: 10px;
+	padding-right: 10px;
+	margin: 0 auto;
+	/* background-color: #efefef; */
+}
+
+#mainHeader
+{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+}
+
+#mainNav
+{
+	width: 650px;
+	height: 60px;
+	background-color: #000;
+}
+
+#logo
+{
+	width: 200px;
+	height: 60px;
+	background-color: #000;
+}
+
+#mainFooter
+{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	margin-top: 10px;
+}
+
+#footerNav
+{
+	width: 650px;
+	height: 60px;
+	background-color: #000;
+}
+
+#copyRight
+{
+	width: 290px;
+	height: 60px;
+	background-color: #000;
+}
+
+
+/* Page 1 */
+
+#hero
+{
+	margin-top: 10px;
+	display: flex;
+	width: 1020px;
+	height: 500px;
+	background-color: #000;	
+}
+
+#brandIntro 
+{
+    margin-top: 10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+#brandIntroText
+{
+    width: 410px;
+    height: 400px;
+    background-color: #000;
+}
+
+#brandIntroImage
+{
+    width: 600px;
+    height: 400px;
+    background-color: #000;
+}
+
+#promo
+{
+	display: flex;
+	width: 1020px;
+	height: 400px;
+	background-color: #000;
+	margin-top: 10px;
+}
