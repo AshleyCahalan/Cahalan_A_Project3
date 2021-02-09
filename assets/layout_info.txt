@@ -1,0 +1,83 @@
+Page 1: index.html
+Page 2: products.html
+
+Page 1
+======
+Container: w=1040px h=1460px
+margin-left=10px
+margin-right=10px
+
+HEADER
+Nav: w=650px h=60px
+Logo: w=200px h=60px
+
+Section HERO
+w=1020px h=500px
+
+Section BRAND INTRO
+BrandIntroText: w=410px h=400px
+BrandIntroImage: w=600px h=400px
+margin-top=10px
+
+Section PROMO
+w=1020px h=400px
+margin-top=10px
+
+FOOTER
+Nav: w=650px h=60px
+Copyright: w=290px h=60px
+margin-top=10px
+
+
+
+Page 2
+======
+Container: w=1040, h=1620px
+
+HEADER
+Nav: w=650px h=60px
+Logo: w=200px h=60px
+
+Section PRODUCTS HERO
+w=1020px h=400px
+margin-top=10px
+
+Section PRODUCT 1
+Product Image: w=300px h=350px
+Product Text: w=710px h=350px
+margin-top=10px
+
+Section PRODUCT 2
+Product Text: w=710px h=350px
+Product Image: w=300px h=350px
+margin-top=10px
+
+Section PRODUCT 3
+Product Image: w=300px h=350px
+Product Text: w=710px h=350px
+margin-top=10px
+
+FOOTER
+Nav: w=650px h=60px
+Copyright: w=290px h=60px
+margin-top=10px
+
+
+Design Ideas
+=========
+Body Font
+- Lato
+- Source Sans Pro
+Headings Font
+- Roboto Condensed
+- Poppins
+Menu Text Font
+- Anton
+-Fjalla One
+- Teko
+LOGO Font
+- SS Nickson One--not on google fonts
+Colours
+Brand Colours:
+- red #ED1C24 - main colour
+- gold (gradient) from #A5854D to #F6E5B6
